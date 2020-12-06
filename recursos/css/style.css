@@ -57,7 +57,18 @@
 
 
 
-
+.btn-confiteria{
+  color: black;
+  background-color: #00e07c !important;
+  border: 2px solid #00e07c;
+  font-family: Arial;
+  border-radius: 30px;
+  text-align: center;
+  padding: 7px 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: 800;
+}
 
 
 
